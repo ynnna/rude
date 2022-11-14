@@ -1,0 +1,11 @@
+Package: rude
+Title: Rude answering
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ynnna", "AI", , "iliescuaf@gmail.com", role = c("aut", "cre"))
+Description: Answers slighly rude or rude to greetings 
+    depending in whether the author had a good_day or not.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1.9000
